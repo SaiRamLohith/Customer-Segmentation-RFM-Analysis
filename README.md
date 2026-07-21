@@ -54,7 +54,7 @@ Customer-Segmentation-RFM-Analysis
 
 ### Segment Performance Analysis
 
-![Segment Performance Analysis](screenshots/Segment%20Performnce%20Analysis.png)
+![Segment Performance Analysis](screenshots/Segment%20Perforamnce%20Analysis.png)
 
 ---
 
