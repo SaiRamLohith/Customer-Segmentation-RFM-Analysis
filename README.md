@@ -48,19 +48,19 @@ Customer-Segmentation-RFM-Analysis
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/Executive Dashboard.png)
+![Executive Dashboard](screenshots/Executive%20Dashboard.png)
 
 ---
 
 ### Segment Performance Analysis
 
-![Segment Performance Analysis](screenshots/Segment Performance Analysis.png)
+![Segment Performance Analysis](screenshots/Segment%20Performance%20Analysis.png)
 
 ---
 
 ### Business Insights & Recommendations
 
-![Business Insights](screenshots/Business Insights & Recommendations.png)
+![Business Insights](screenshots/Business%20Insights%20%26%20Recommendations.png)
 
 ---
 
